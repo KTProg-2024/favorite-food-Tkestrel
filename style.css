@@ -1,0 +1,38 @@
+.everything{
+  text-align: center;
+  font-family: Verdana;
+}
+
+h3{
+  font-style: italic;
+}
+
+#favorite{
+  font-family: initial;
+  color: slateblue;
+}
+
+.pizza{
+  background-color: lightcoral;
+  color: brown;
+}
+
+.schnitzel{
+  background-color: coral;
+  color: orangered;
+}
+
+.icecream{
+  background-color: palegreen;
+  color: forestgreen;
+}
+
+.mojc{
+  background-color: sienna;
+  color: black;
+}
+
+.calamari{
+  background-color: sandybrown;
+  color: chocolate;
+}
